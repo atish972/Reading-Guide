@@ -20,8 +20,10 @@ A lightweight, tactical focus tool designed for students and researchers. This u
 - Launch Reading Guide from your application menu.
 
 ## Technical info
-Language: C
+**Language:** C
 
 **Graphics:** X11 (Xlib) with XShape extensions
+
 **UI:** GTK+ 3.0
-**Threading**: POSIX Threads (pthreads) for decoupled UI and ruler rendering.
+
+**Threading:** POSIX Threads (pthreads) for decoupled UI and ruler rendering.
