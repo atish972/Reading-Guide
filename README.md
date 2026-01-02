@@ -1,5 +1,5 @@
 # Reading Guide v1.0.0
-A lightweight focus tool designed for ADHD people. This utility provides a horizontal reading ruler that stays pinned to your cursor, making it easier to track lines of text in dense academic papers or long code files.
+A lightweight focus tool for reading. This utility provides a horizontal reading ruler that stays pinned to your cursor, making it easier to track lines of text in dense academic papers or long code files.
 
 ## Features
 - The ruler's bottom edge is anchored to your mouse tip.
@@ -14,7 +14,7 @@ A lightweight focus tool designed for ADHD people. This utility provides a horiz
 
 ## Installation (Debian/Ubuntu)
 
-- Download the reading-guide.deb file from the assets.
+- Download the reading-guide.deb file from the assets below.
 - Open your terminal in the download folder and run:
 `sudo apt install ./reading-guide.deb`
 - Launch Reading Guide from your application menu.
@@ -26,4 +26,4 @@ A lightweight focus tool designed for ADHD people. This utility provides a horiz
 
 **UI:** GTK+ 3.0
 
-**Threading:** POSIX Threads (pthreads) for decoupled UI and ruler rendering.
+**Threading**: POSIX Threads (pthreads) for decoupled UI and ruler rendering.
