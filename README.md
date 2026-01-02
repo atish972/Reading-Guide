@@ -14,7 +14,7 @@ A lightweight, tactical focus tool designed for students and researchers. This u
 
 ## Installation (Debian/Ubuntu)
 
-- Download the reading-guide.deb file from the assets below.
+- Download the reading-guide.deb file from the assets.
 - Open your terminal in the download folder and run:
 `sudo apt install ./reading-guide.deb`
 - Launch Reading Guide from your application menu.
