@@ -1,5 +1,5 @@
 # Reading Guide v1.0.0
-A lightweight, tactical focus tool designed for students and researchers. This utility provides a horizontal "reading shelf" that stays pinned to your cursor, making it easier to track lines of text in dense academic papers or long code files.
+A lightweight focus tool designed for ADHD people. This utility provides a horizontal reading ruler that stays pinned to your cursor, making it easier to track lines of text in dense academic papers or long code files.
 
 ## Features
 - The ruler's bottom edge is anchored to your mouse tip.
